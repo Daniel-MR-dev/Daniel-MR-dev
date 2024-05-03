@@ -5,7 +5,7 @@
 <p align=center>˗ˏˋ𝐁𝐞𝐦 𝐯𝐢𝐧𝐝𝐨 𝐚𝐨 𝐌𝐞𝐮 𝐆𝐢𝐭𝐡𝐮𝐛ˎˊ˗</p>
 <p align=center>🦋|꒱ - - - - - - - - - - - - - - - - - - - - - - -☆ ☆</p>
 
-- 🔭 Atual trabalhando em projetos autorais de desenvolvimento web
+- 🔭 Atualmente trabalhando em projetos autorais de desenvolvimento web
 - 🌱 Estuando Sistemas de informação na Unimontes- Montes Claros
 - 🤝 Buscando projetos colaborativos de design e desenvolvimento web
 - 🏹 Um trabalho criativo e inovador é meu lema, sempre existe alguma área que pode ser aprimorada
